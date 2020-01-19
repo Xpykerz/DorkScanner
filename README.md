@@ -11,11 +11,11 @@ Instaling DorkScanner
 ```
 apt-get update && apt-get upgrade
 apt install git
-apt-get install python
-pip install google
+apt-get install python3
+pip3 install google
 git clone https://github.com/Xpykerz/DorkScanner.git
 cd DorkScanner
-python DorkScanner.py
+python3 DorkScanner.py
 ```
 
 ## Screenshot
