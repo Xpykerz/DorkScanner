@@ -1,12 +1,16 @@
-# DorkScanner 
+# DorkScanner
 
- DorkScanner is a tools to find vulnerable sites using dork .DorkScanner is Developed by @Xpykerz. The script is writen is python. This tool will works on both Linux,Windows and Android by using python.
- 
+DorkScanner is a tool designed to identify vulnerable websites using dorks. Developed by @Xpykerz, this script is written in Python and is compatible with Linux, Windows, and Android platforms.
 
 ## Installation
 
-Instaling DorkScanner
+### Prerequisites
+Ensure you have the following installed on your system:
+- Python 3
+- pip (Python package installer)
+- git
 
+### Installing DorkScanner
 
 ```
 apt-get update && apt-get upgrade
@@ -18,14 +22,24 @@ cd DorkScanner
 python3 DorkScanner.py
 ```
 
-## Screenshot
-![image](https://github.com/Xpykerz/DorkScanner/blob/master/Screenshot.png)
+## Screenshots
+Below is a preview of DorkScanner in action:
+
+![DorkScanner Screenshot](https://github.com/Xpykerz/DorkScanner/blob/master/Screenshot.png)
 
 ## Contributing
 
+We welcome contributions to improve DorkScanner! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push them to your fork.
+4. Submit a pull request for review.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For major changes, please open an issue first to discuss your ideas.
 
-Send your feed/report issue to @Xpykerz .
+Feel free to report issues or provide feedback by reaching out to @Xpykerz.
 
-# By @Xpykerz
+---
+
+### Author
+Developed and maintained by @Xpykerz.
